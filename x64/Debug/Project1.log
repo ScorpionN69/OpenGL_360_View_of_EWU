@@ -1,0 +1,7 @@
+﻿  Application.cpp
+E:\#ok\Nayeem\CSE420 project\src\Application.cpp(301,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\#ok\Nayeem\CSE420 project\src\Application.cpp(302,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\#ok\Nayeem\CSE420 project\src\Application.cpp(303,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\#ok\Nayeem\CSE420 project\src\Application.cpp(304,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> E:\#ok\Nayeem\CSE420 project\x64\Debug\Project1.exe
